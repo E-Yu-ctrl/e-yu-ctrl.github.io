@@ -85,10 +85,7 @@ const CONFIG = {
   skills: [
     'Git',
     'Microsoft Excel',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    
   ],
   experiences: [
     {
