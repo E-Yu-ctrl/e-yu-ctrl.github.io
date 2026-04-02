@@ -52,17 +52,17 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Tricia Van Laar',
+    title: 'Portfolio of Emma Yu',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'tvanlaar',
+    linkedin: '',
     x: '',
     mastodon: '',
     researchGate: '',
     facebook: '',
-    instagram: '',
+    instagram: '@emma_yu004',
     reddit: '',
     threads: '',
     youtube: '', 
@@ -74,25 +74,17 @@ const CONFIG = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tvanlaar.github.io',
-    phone: '',
-    email: 'tvanlaar@csustan.edu',
+    website: 'https://e-yu-ctrl.github.io/',
+    phone: '(530) 760-5707',
+    email: 'eyu3@csustan.edu',
   },
   resume: {
     fileUrl:
       'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
+    'Microsoft Excel',
     'PHPUnit',
     'CSS',
     'Antd',
@@ -124,16 +116,12 @@ const CONFIG = {
   ],
   education: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'California State University - Stanislaus',
+      degree: 'Biology, B.S.',
+      from: '2023',
+      to: '2027',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
     },
   ],
   publications: [
