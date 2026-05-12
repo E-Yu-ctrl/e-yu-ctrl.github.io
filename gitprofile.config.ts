@@ -38,15 +38,16 @@ const CONFIG = {
             'A descriptive essay written about the bacterium Bacillus anthracis regarding its mechanisms of infection, symptoms, and treatments',
           imageUrl:
             'https://github.com/E-Yu-ctrl/e-yu-ctrl.github.io/blob/main/MicrobioEssay_SS.jpeg',
-          link: 'https://example.com',
+          link: 'https://docs.google.com/document/d/13MY94n7L90ULbhOmh0j3aXiTaS2V5Xxxr-wVMXp6NHA/edit?usp=sharing',
         },
         {
-          title: 'Project Name',
+          title: 'Conservation Biology Presentation',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A presentation describing how climate change is affecting different European bat populations in relation to their contributions to 
+            ecosystem functions.',
           imageUrl:
             'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+          link: 'https://1drv.ms/p/c/04477a842e0e49ef/IQARoWir51YbQqbgWpzK1QS9Ac_ab6-ZoVtTZTMZLThmB-w?e=tETGkt',
         },
       ],
     },
