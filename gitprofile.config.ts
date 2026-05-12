@@ -25,7 +25,7 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['tvanlaar/biol4810',], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: ['E-Yu-ctrl/biol4810',], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
       },
     },
     external: {
