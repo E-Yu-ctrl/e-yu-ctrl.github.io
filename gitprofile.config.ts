@@ -43,8 +43,7 @@ const CONFIG = {
         {
           title: 'Conservation Biology Presentation',
           description:
-            'A presentation describing how climate change is affecting different European bat populations in relation to their contributions to 
-            ecosystem functions.',
+            'A presentation describing how climate change is affecting different European bat populations in relation to their contributions to ecosystem functions.',
           imageUrl:
             'https://github.com/E-Yu-ctrl/e-yu-ctrl.github.io/raw/main/BatConservationPPT_SS.jpeg',
           link: 'https://1drv.ms/p/c/04477a842e0e49ef/IQARoWir51YbQqbgWpzK1QS9Ac_ab6-ZoVtTZTMZLThmB-w?e=tETGkt',
