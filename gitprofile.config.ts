@@ -37,7 +37,7 @@ const CONFIG = {
           description:
             'A descriptive essay written about the bacterium Bacillus anthracis regarding its mechanisms of infection, symptoms, and treatments',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'https://github.com/E-Yu-ctrl/e-yu-ctrl.github.io/blob/main/MicrobioEssay_SS.jpeg',
           link: 'https://example.com',
         },
         {
