@@ -80,27 +80,27 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/tvanlaar/gitprofile/raw/main/VanLaarCV.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/E-Yu-ctrl/e-yu-ctrl.github.io/raw/main/biol4810_CV%20(2).pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Git',
     'Microsoft Excel',
-    
+    'Galaxy EU',
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'McWong International',
+      position: 'Intern',
+      from: 'July 2022',
+      to: 'August 2022',
+      companyLink: 'https://mwconnect.us/about-us/company/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'California State University - Stanislaus',
+      position: 'Summer Tennis Camp Counselor',
+      from: 'June 2025',
+      to: 'August 2025',
+      companyLink: 'https://warriorathletics.com/sports/womens-tennis/coaches',
     },
   ],
   certifications: [
@@ -123,13 +123,13 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
+      title: 'Whole Genome Sequencing of Flavaobacterium xanthum DSM 3661'
       conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      journalName: 'American Society for Microbiology',
+      authors: 'Jose Sanchez, Karisma Naidu, Arielle Names, Silvestre Garcia Pimental, Emma Yu',
+      link: 'https://1drv.ms/w/c/04477a842e0e49ef/IQDWK4GoPhDLSYRyuT-CbBKwAZAQgYbrMnK6fEATltsEsJI?e=mNdHAk',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'A Microbiology Resource Announcement was made regarding whole genome sequencing of the psychrophilic bacterium Flavobacterium xanthum. Data showing the prescence of anti-freeze proteins display species resilience in Antarctic soils.',
     },
     {
       title: 'Publication Title',
